@@ -1,7 +1,7 @@
 {
   "name": "namaste-react",
   "version": "1.0.0",
-  "description": "This is Namaste React by Akshay Saini",
+  "description": "This is Namaste React by Rajat Atrahe",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/namastedev/namaste-react.git"
   },
   "keywords": [],
-  "author": "Akshay Saini",
+  "author": "Rajat Atrahe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/namastedev/namaste-react/issues"
